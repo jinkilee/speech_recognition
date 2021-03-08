@@ -1,0 +1,15 @@
+torch
+pandas
+numpy
+tqdm
+librosa
+python_speech_features
+scipy
+python-Levenshtein
+#pydub
+#joblib
+#editdistance
+#tensorboardX
+#pandas
+#scipy
+#pyyaml
