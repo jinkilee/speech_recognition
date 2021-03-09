@@ -1,7 +1,13 @@
 import torch
 import numpy as np
 from modeling import Listener, Speller
+from feature import create_mfcc
 
+print(create_mfcc)
+exit()
+
+
+exit
 maxlen = 48
 input_size = 80
 listener_hidden_size = 160
